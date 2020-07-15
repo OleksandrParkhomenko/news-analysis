@@ -1,0 +1,407 @@
+[I 11:47:25.468 NotebookApp] Serving notebooks from local directory: /home/codecatsdev/news-analysis
+[I 11:47:25.468 NotebookApp] 0 active kernels
+[I 11:47:25.468 NotebookApp] The Jupyter Notebook is running at:
+[I 11:47:25.468 NotebookApp] http://0.0.0.0:5000/?token=7823e2d04b448880b14b425aafeb6a28b6e3525475aa2f16
+[I 11:47:25.468 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:47:25.469 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:5000/?token=7823e2d04b448880b14b425aafeb6a28b6e3525475aa2f16
+[W 11:47:33.118 NotebookApp] 404 GET /api/kernels/2e83b8bc-dcde-4930-b70a-4e4dc40592b6/channels?session_id=765EFDF24E884C4C83F6EDBC00040944 (109.114.24.64): Kernel does not exist: 2e83b8bc-dcde-4930-b70a-4e4dc40592b6
+[W 11:47:33.143 NotebookApp] 404 GET /api/kernels/2e83b8bc-dcde-4930-b70a-4e4dc40592b6/channels?session_id=765EFDF24E884C4C83F6EDBC00040944 (109.114.24.64) 55.24ms referer=None
+[W 11:47:37.320 NotebookApp] 404 GET /api/kernels/83f5038f-09a7-4708-9681-49d6535022f5/channels?session_id=7B33260912714373814B5FAE9D21E170 (109.114.24.64): Kernel does not exist: 83f5038f-09a7-4708-9681-49d6535022f5
+[W 11:47:37.321 NotebookApp] 404 GET /api/kernels/83f5038f-09a7-4708-9681-49d6535022f5/channels?session_id=7B33260912714373814B5FAE9D21E170 (109.114.24.64) 2.51ms referer=None
+[W 11:47:38.295 NotebookApp] Replacing stale connection: 2e83b8bc-dcde-4930-b70a-4e4dc40592b6:765EFDF24E884C4C83F6EDBC00040944
+[I 11:47:54.560 NotebookApp] Interrupted...
+[I 11:47:54.560 NotebookApp] Shutting down 0 kernels
+[I 11:53:33.816 NotebookApp] Serving notebooks from local directory: /home/codecatsdev/news-analysis
+[I 11:53:33.816 NotebookApp] 0 active kernels
+[I 11:53:33.816 NotebookApp] The Jupyter Notebook is running at:
+[I 11:53:33.816 NotebookApp] http://0.0.0.0:5000/?token=93f35c50f0f02f0c9cf1c7742857bc0cc38ab7e8c16d6000
+[I 11:53:33.816 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:53:33.817 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:5000/?token=93f35c50f0f02f0c9cf1c7742857bc0cc38ab7e8c16d6000
+[I 11:54:13.210 NotebookApp] 302 GET /?token=93f35c50f0f02f0c9cf1c7742857bc0cc38ab7e8c16d6000 (109.114.24.64) 0.50ms
+[W 11:54:16.151 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 6.72ms referer=http://34.83.241.175:5000/tree
+[W 11:54:22.474 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.37ms referer=http://34.83.241.175:5000/tree
+[W 11:54:23.997 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 0.98ms referer=http://34.83.241.175:5000/tree
+[W 11:54:26.877 NotebookApp] 404 GET /notebooks/Untitled%20Folder/Pre-proccesing%20of%20dataset.ipynb (109.114.24.64): No such file or directory: Untitled Folder/Pre-proccesing of dataset.ipynb
+[W 11:54:26.878 NotebookApp] 404 GET /notebooks/Untitled%20Folder/Pre-proccesing%20of%20dataset.ipynb (109.114.24.64) 1.84ms referer=None
+[W 11:54:36.602 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.06ms referer=http://34.83.241.175:5000/tree/Pre-processing
+[W 11:54:39.566 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[W 11:54:39.572 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.23ms referer=http://34.83.241.175:5000/notebooks/Pre-processing/Pre-proccesing%20of%20dataset.ipynb
+[I 11:54:40.296 NotebookApp] Kernel started: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 11:54:40.739 NotebookApp] Adapting to protocol v5.1 for kernel ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 11:56:40.563 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 11:56:40.564 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[I 11:58:40.644 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 11:58:40.644 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[I 12:00:40.575 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 12:00:40.575 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[I 12:02:40.765 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 12:02:40.765 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[W 12:03:49.110 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.30ms referer=http://34.83.241.175:5000/tree
+[W 12:04:28.629 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.07ms referer=http://34.83.241.175:5000/tree
+[I 12:04:36.288 NotebookApp] Creating new directory in 
+[W 12:04:40.003 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.36ms referer=http://34.83.241.175:5000/tree/Untitled%20Folder
+[I 12:04:40.841 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 12:04:40.841 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[W 12:04:42.377 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.19ms referer=http://34.83.241.175:5000/tree
+[W 12:05:05.704 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.66ms referer=http://34.83.241.175:5000/tree/Exploratory%20analysis%20
+[I 12:05:10.006 NotebookApp] Creating new notebook in /Exploratory analysis 
+[W 12:05:18.662 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.34ms referer=http://34.83.241.175:5000/notebooks/Exploratory%20analysis%20/Untitled.ipynb?kernel_name=python3
+[I 12:05:20.065 NotebookApp] Kernel started: f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[I 12:05:21.121 NotebookApp] Adapting to protocol v5.1 for kernel f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[W 12:05:47.529 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.41ms referer=http://34.83.241.175:5000/tree
+[W 12:06:06.715 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.13ms referer=http://34.83.241.175:5000/tree
+[W 12:06:11.650 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.35ms referer=http://34.83.241.175:5000/tree
+[W 12:06:15.048 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.31ms referer=http://34.83.241.175:5000/tree
+[W 12:06:17.491 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.50ms referer=http://34.83.241.175:5000/tree
+[W 12:06:20.372 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.40ms referer=http://34.83.241.175:5000/tree
+[W 12:06:22.678 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.12ms referer=http://34.83.241.175:5000/tree
+[W 12:06:26.057 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.05ms referer=http://34.83.241.175:5000/tree
+[W 12:06:28.942 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.21ms referer=http://34.83.241.175:5000/tree
+[W 12:07:10.164 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.38ms referer=http://34.83.241.175:5000/tree
+[I 12:07:20.458 NotebookApp] Saving file at /Exploratory analysis /Untitled.ipynb
+[W 12:08:35.374 NotebookApp] Replacing stale connection: f2c038ad-81f4-4a4d-b22f-43674e9e7098:3C6F3ABCA0A149A6981AA58FBB6867B1
+[I 12:08:40.374 NotebookApp] Starting buffering for f2c038ad-81f4-4a4d-b22f-43674e9e7098:3C6F3ABCA0A149A6981AA58FBB6867B1
+[I 12:08:40.375 NotebookApp] Adapting to protocol v5.1 for kernel f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[I 12:08:40.376 NotebookApp] Restoring connection for f2c038ad-81f4-4a4d-b22f-43674e9e7098:3C6F3ABCA0A149A6981AA58FBB6867B1
+[W 12:08:40.800 NotebookApp] Replacing stale connection: ade8c905-714b-4573-a3ff-21fbaa8981ef:9DE36B059D3F4D398C2C6B95455757D2
+[W 12:08:42.802 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.40ms referer=http://34.83.241.175:5000/tree
+[I 12:08:45.105 NotebookApp] Starting buffering for f2c038ad-81f4-4a4d-b22f-43674e9e7098:3C6F3ABCA0A149A6981AA58FBB6867B1
+[I 12:08:45.801 NotebookApp] Starting buffering for ade8c905-714b-4573-a3ff-21fbaa8981ef:9DE36B059D3F4D398C2C6B95455757D2
+[I 12:08:45.801 NotebookApp] Adapting to protocol v5.1 for kernel ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 12:08:45.802 NotebookApp] Restoring connection for ade8c905-714b-4573-a3ff-21fbaa8981ef:9DE36B059D3F4D398C2C6B95455757D2
+[W 12:08:46.027 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.38ms referer=http://34.83.241.175:5000/notebooks/Exploratory%20analysis%20/Untitled.ipynb?kernel_name=python3
+[I 12:08:46.626 NotebookApp] Adapting to protocol v5.1 for kernel f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[I 12:08:47.545 NotebookApp] Starting buffering for f2c038ad-81f4-4a4d-b22f-43674e9e7098:CE481B0BE64445FF93AD5A4642FC9525
+[I 12:08:50.170 NotebookApp] Starting buffering for ade8c905-714b-4573-a3ff-21fbaa8981ef:9DE36B059D3F4D398C2C6B95455757D2
+[W 12:08:55.097 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.33ms referer=http://34.83.241.175:5000/tree/Exploratory%20analysis%20
+[W 12:09:04.870 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.31ms referer=http://34.83.241.175:5000/notebooks/Exploratory%20analysis%20/Untitled.ipynb
+[I 12:09:05.582 NotebookApp] Adapting to protocol v5.1 for kernel f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[I 12:11:05.456 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[W 12:11:36.391 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.23ms referer=http://34.83.241.175:5000/tree
+[W 12:11:39.601 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.21ms referer=http://34.83.241.175:5000/tree/Pre-processing
+[W 12:11:43.127 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[W 12:11:43.133 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.17ms referer=http://34.83.241.175:5000/notebooks/Pre-processing/Pre-proccesing%20of%20dataset.ipynb
+[I 12:11:44.523 NotebookApp] Adapting to protocol v5.1 for kernel ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 12:13:05.408 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 12:13:44.457 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 12:13:44.457 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[I 12:15:44.537 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 12:15:44.537 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[W 12:16:39.307 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.42ms referer=http://34.83.241.175:5000/tree
+[W 12:16:42.094 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.39ms referer=http://34.83.241.175:5000/tree/Datasets
+[W 12:16:44.068 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.30ms referer=http://34.83.241.175:5000/tree
+[W 12:16:47.152 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.36ms referer=http://34.83.241.175:5000/tree/Clusterization%20
+[W 12:16:50.406 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.39ms referer=http://34.83.241.175:5000/notebooks/Clusterization%20/news_clusterization.ipynb
+[I 12:16:51.576 NotebookApp] Kernel started: aaf2b757-dff7-4af2-9a6b-3f92775541e0
+[I 12:16:52.161 NotebookApp] Adapting to protocol v5.1 for kernel aaf2b757-dff7-4af2-9a6b-3f92775541e0
+[I 12:17:05.443 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 12:17:15.279 NotebookApp] Starting buffering for aaf2b757-dff7-4af2-9a6b-3f92775541e0:FBB38F28DDED4507912ACEF72687E823
+[W 12:17:17.700 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.37ms referer=http://34.83.241.175:5000/tree
+[W 12:17:20.244 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.35ms referer=http://34.83.241.175:5000/tree/Classification%20
+[W 12:17:27.806 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.19ms referer=http://34.83.241.175:5000/notebooks/Classification%20/Untitled.ipynb
+[I 12:17:28.485 NotebookApp] Kernel started: 5a4a7422-947e-4c2e-8d95-cb161bf652b3
+[I 12:17:29.069 NotebookApp] Adapting to protocol v5.1 for kernel 5a4a7422-947e-4c2e-8d95-cb161bf652b3
+[I 12:17:44.398 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 12:17:44.399 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[I 12:19:28.878 NotebookApp] Saving file at /Classification /Untitled.ipynb
+[I 12:21:28.769 NotebookApp] Saving file at /Classification /Untitled.ipynb
+[I 12:23:28.765 NotebookApp] Saving file at /Classification /Untitled.ipynb
+[I 12:25:29.542 NotebookApp] Saving file at /Classification /Untitled.ipynb
+[W 12:25:37.253 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.12ms referer=http://34.83.241.175:5000/tree
+[W 12:25:41.185 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.36ms referer=http://34.83.241.175:5000/tree/Clusterization%20
+[W 12:25:43.403 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (109.114.24.64) 1.25ms referer=http://34.83.241.175:5000/notebooks/Clusterization%20/news_clusterization.ipynb
+[I 12:25:45.474 NotebookApp] Adapting to protocol v5.1 for kernel aaf2b757-dff7-4af2-9a6b-3f92775541e0
+[I 12:27:28.743 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:29:28.733 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:31:28.743 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:33:28.778 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:35:28.805 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:37:29.570 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:39:28.734 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[W 12:41:14.524 NotebookApp] WebSocket ping timeout after 119789 ms.
+[W 12:41:15.476 NotebookApp] WebSocket ping timeout after 119821 ms.
+[I 12:41:19.526 NotebookApp] Starting buffering for ade8c905-714b-4573-a3ff-21fbaa8981ef:3FDD420F5C1C43148670FBFF61DE8548
+[I 12:41:20.477 NotebookApp] Starting buffering for aaf2b757-dff7-4af2-9a6b-3f92775541e0:E9AE6C5B82544229B2EA9248DF4B4176
+[I 12:41:27.960 NotebookApp] Adapting to protocol v5.1 for kernel aaf2b757-dff7-4af2-9a6b-3f92775541e0
+[I 12:41:27.961 NotebookApp] Restoring connection for aaf2b757-dff7-4af2-9a6b-3f92775541e0:E9AE6C5B82544229B2EA9248DF4B4176
+[I 12:41:28.311 NotebookApp] Adapting to protocol v5.1 for kernel ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 12:41:28.311 NotebookApp] Restoring connection for ade8c905-714b-4573-a3ff-21fbaa8981ef:3FDD420F5C1C43148670FBFF61DE8548
+[W 12:41:28.673 NotebookApp] Replacing stale connection: f2c038ad-81f4-4a4d-b22f-43674e9e7098:ECD8C51DC4944F29B40FEC743BC1A016
+[W 12:41:29.071 NotebookApp] WebSocket ping timeout after 119811 ms.
+[I 12:41:33.673 NotebookApp] Starting buffering for f2c038ad-81f4-4a4d-b22f-43674e9e7098:ECD8C51DC4944F29B40FEC743BC1A016
+[I 12:41:33.674 NotebookApp] Adapting to protocol v5.1 for kernel f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[I 12:41:33.675 NotebookApp] Restoring connection for f2c038ad-81f4-4a4d-b22f-43674e9e7098:ECD8C51DC4944F29B40FEC743BC1A016
+[W 12:41:34.034 NotebookApp] Replacing stale connection: 5a4a7422-947e-4c2e-8d95-cb161bf652b3:DB92A410216345369139C48F10C3BBCE
+[I 12:41:34.071 NotebookApp] Starting buffering for 5a4a7422-947e-4c2e-8d95-cb161bf652b3:DB92A410216345369139C48F10C3BBCE
+[I 12:41:34.072 NotebookApp] Adapting to protocol v5.1 for kernel 5a4a7422-947e-4c2e-8d95-cb161bf652b3
+[I 12:41:34.073 NotebookApp] Restoring connection for 5a4a7422-947e-4c2e-8d95-cb161bf652b3:DB92A410216345369139C48F10C3BBCE
+[W 12:44:55.552 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.23ms referer=http://34.83.241.175:5000/tree/Clusterization%20
+[I 12:51:29.699 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:53:28.734 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:55:29.416 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:55:45.289 NotebookApp] Saving file at /Clusterization /news_clusterization.ipynb
+[I 12:57:28.701 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 12:57:45.502 NotebookApp] Saving file at /Clusterization /news_clusterization.ipynb
+[I 13:05:28.887 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[W 13:10:57.961 NotebookApp] WebSocket ping timeout after 119831 ms.
+[W 13:10:58.312 NotebookApp] WebSocket ping timeout after 119828 ms.
+[I 13:11:02.963 NotebookApp] Starting buffering for aaf2b757-dff7-4af2-9a6b-3f92775541e0:E9AE6C5B82544229B2EA9248DF4B4176
+[I 13:11:03.313 NotebookApp] Starting buffering for ade8c905-714b-4573-a3ff-21fbaa8981ef:3FDD420F5C1C43148670FBFF61DE8548
+[I 13:11:29.149 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 13:13:28.748 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 13:15:28.736 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 13:15:44.271 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 13:15:44.272 NotebookApp] Notebook Pre-processing/Pre-proccesing of dataset.ipynb is not trusted
+[I 13:17:25.273 NotebookApp] Kernel interrupted: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 13:17:29.413 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 13:17:29.757 NotebookApp] Kernel interrupted: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 13:17:38.436 NotebookApp] Kernel interrupted: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 13:17:44.267 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 13:17:44.687 NotebookApp] Kernel interrupted: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[W 13:18:56.090 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.61ms referer=http://34.83.241.175:5000/tree
+[W 13:19:00.455 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.57ms referer=http://34.83.241.175:5000/tree/Pre-processing
+[W 13:19:05.207 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.06ms referer=http://34.83.241.175:5000/notebooks/Pre-processing/Pre-proccesing%20of%20dataset.ipynb
+[I 13:19:06.141 NotebookApp] Adapting to protocol v5.1 for kernel ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 13:21:05.911 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 13:33:06.647 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 13:36:09.507 NotebookApp] Kernel interrupted: aaf2b757-dff7-4af2-9a6b-3f92775541e0
+[I 13:37:06.711 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 13:37:28.820 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 13:37:45.492 NotebookApp] Saving file at /Clusterization /news_clusterization.ipynb
+[I 13:39:29.462 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 13:47:06.112 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 13:47:28.211 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 13:48:22.645 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 13:49:06.317 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 13:49:10.592 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.34ms referer=http://34.83.241.175:5000/tree
+[W 13:49:23.656 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.28ms referer=http://34.83.241.175:5000/tree/Clusterization%20
+[W 13:49:26.887 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.32ms referer=http://34.83.241.175:5000/notebooks/Clusterization%20/news_clusterization.ipynb
+[I 13:49:29.135 NotebookApp] Adapting to protocol v5.1 for kernel aaf2b757-dff7-4af2-9a6b-3f92775541e0
+[I 13:51:05.465 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 13:51:06.445 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 13:53:05.444 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 13:55:05.452 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 13:57:05.466 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 13:59:05.483 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:01:06.473 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 14:03:05.455 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:05:05.458 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:07:06.330 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[W 14:08:59.136 NotebookApp] WebSocket ping timeout after 119761 ms.
+[W 14:09:03.675 NotebookApp] WebSocket ping timeout after 119836 ms.
+[W 14:09:04.073 NotebookApp] WebSocket ping timeout after 119834 ms.
+[I 14:09:04.137 NotebookApp] Starting buffering for aaf2b757-dff7-4af2-9a6b-3f92775541e0:A4A8077C560E49C08A43D791ADC8A135
+[W 14:09:06.143 NotebookApp] WebSocket ping timeout after 119831 ms.
+[I 14:09:08.676 NotebookApp] Starting buffering for f2c038ad-81f4-4a4d-b22f-43674e9e7098:ECD8C51DC4944F29B40FEC743BC1A016
+[I 14:09:09.074 NotebookApp] Starting buffering for 5a4a7422-947e-4c2e-8d95-cb161bf652b3:DB92A410216345369139C48F10C3BBCE
+[I 14:09:11.143 NotebookApp] Starting buffering for ade8c905-714b-4573-a3ff-21fbaa8981ef:36FBBD33BBDD45BCB6DFF07E02BC0C8A
+[W 14:09:49.366 NotebookApp] Notebook Classification /news_classification.ipynb is not trusted
+[W 14:09:49.383 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.29ms referer=http://34.83.241.175:5000/notebooks/Classification%20/news_classification.ipynb
+[I 14:09:50.773 NotebookApp] Adapting to protocol v5.1 for kernel 5a4a7422-947e-4c2e-8d95-cb161bf652b3
+[I 14:09:52.465 NotebookApp] Adapting to protocol v5.1 for kernel f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[I 14:09:52.466 NotebookApp] Restoring connection for f2c038ad-81f4-4a4d-b22f-43674e9e7098:ECD8C51DC4944F29B40FEC743BC1A016
+[I 14:10:53.464 NotebookApp] Adapting to protocol v5.1 for kernel ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 14:10:53.465 NotebookApp] Restoring connection for ade8c905-714b-4573-a3ff-21fbaa8981ef:36FBBD33BBDD45BCB6DFF07E02BC0C8A
+[I 14:11:05.471 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:11:31.459 NotebookApp] Adapting to protocol v5.1 for kernel aaf2b757-dff7-4af2-9a6b-3f92775541e0
+[I 14:11:31.460 NotebookApp] Restoring connection for aaf2b757-dff7-4af2-9a6b-3f92775541e0:A4A8077C560E49C08A43D791ADC8A135
+[I 14:13:06.483 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 14:17:06.484 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 14:17:50.617 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:19:50.618 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:21:50.622 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:23:50.623 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:25:51.140 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:27:28.867 NotebookApp] Saving file at /Clusterization /news_clusterization.ipynb
+[I 14:27:50.899 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:29:50.893 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:31:50.901 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:33:51.503 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:35:50.708 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:37:51.514 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:39:50.828 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:41:50.652 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:43:05.491 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:43:51.515 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 14:45:05.487 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:47:05.493 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[W 14:47:12.865 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 14:47:15.629 NotebookApp] iopub messages resumed
+[W 14:47:32.969 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 14:47:33.333 NotebookApp] iopub messages resumed
+[W 14:48:45.253 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 14:48:45.614 NotebookApp] iopub messages resumed
+[I 14:49:08.580 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[W 14:49:25.924 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 14:49:26.292 NotebookApp] iopub messages resumed
+[I 14:51:05.501 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:53:05.500 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:55:05.602 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:57:05.628 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 14:57:50.690 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 15:01:06.035 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:03:06.025 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:05:06.035 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:07:06.546 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:07:51.560 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 15:08:17.861 NotebookApp] Kernel interrupted: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 15:09:06.021 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:11:01.013 NotebookApp] Kernel interrupted: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 15:11:06.031 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:13:06.032 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:15:06.046 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:21:51.042 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 15:23:50.710 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 15:25:51.580 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 15:27:06.078 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:27:50.805 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 15:28:44.071 NotebookApp] Starting buffering for f2c038ad-81f4-4a4d-b22f-43674e9e7098:ECD8C51DC4944F29B40FEC743BC1A016
+[I 15:29:06.055 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:29:50.760 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 15:31:06.071 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:33:06.072 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:35:06.066 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:37:06.134 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:39:06.073 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:41:06.599 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:43:06.638 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:45:06.079 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:47:06.089 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:49:06.096 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:51:06.095 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:53:06.101 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:55:06.108 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:57:06.100 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 15:59:06.102 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:01:06.112 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:03:06.111 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:05:06.117 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:05:35.930 NotebookApp] Kernel interrupted: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[I 16:07:06.116 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:09:06.118 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:11:06.648 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:15:06.135 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:17:06.125 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:19:06.119 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:19:51.672 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 16:21:06.132 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:21:51.652 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 16:23:06.136 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:25:06.659 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:25:51.733 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[W 16:27:04.487 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.70ms referer=http://34.83.241.175:5000/tree
+[I 16:27:06.305 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[W 16:27:48.060 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.30ms referer=http://34.83.241.175:5000/tree/Exploratory%20analysis%20
+[W 16:27:50.566 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.40ms referer=http://34.83.241.175:5000/notebooks/Exploratory%20analysis%20/exploratory_analysis.ipynb
+[I 16:27:51.819 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 16:27:52.434 NotebookApp] Adapting to protocol v5.1 for kernel f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[I 16:29:06.676 NotebookApp] Saving file at /Pre-processing/Pre-proccesing of dataset.ipynb
+[I 16:29:52.095 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:31:29.045 NotebookApp] Saving file at /Clusterization /news_clusterization.ipynb
+[I 16:31:52.678 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:33:32.088 NotebookApp] Saving file at /Clusterization /news_clusterization.ipynb
+[I 16:33:51.840 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 16:35:01.086 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[W 16:36:08.996 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.42ms referer=http://34.83.241.175:5000/tree
+[W 16:36:13.399 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.32ms referer=http://34.83.241.175:5000/tree
+[I 16:37:50.815 NotebookApp] Saving file at /Classification /news_classification.ipynb
+[I 16:39:52.117 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:41:52.096 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:43:52.668 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:45:52.106 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:47:52.107 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:49:06.172 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 16:49:52.675 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:51:06.170 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 16:53:06.714 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 16:53:52.119 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:54:15.115 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 16:55:06.185 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 16:55:52.686 NotebookApp] Saving file at /Exploratory analysis /exploratory_analysis.ipynb
+[I 16:57:06.183 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 16:59:06.704 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:05:06.543 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:05:54.993 NotebookApp] Starting buffering for f2c038ad-81f4-4a4d-b22f-43674e9e7098:7E3053DBD63B49A389C793B99D614FC1
+[I 17:07:06.718 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:09:06.191 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:11:06.207 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:15:06.214 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:17:06.720 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[W 17:17:10.676 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.43ms referer=http://34.83.241.175:5000/tree
+[W 17:17:20.204 NotebookApp] delete /Exploratory analysis 
+[W 17:17:20.204 NotebookApp] 400 DELETE /api/contents/Exploratory%20analysis%20 (93.35.188.135): Directory /home/codecatsdev/news-analysis/Exploratory analysis  not empty
+[W 17:17:20.205 NotebookApp] Directory /home/codecatsdev/news-analysis/Exploratory analysis  not empty
+[W 17:17:20.205 NotebookApp] 400 DELETE /api/contents/Exploratory%20analysis%20 (93.35.188.135) 1.63ms referer=http://34.83.241.175:5000/tree
+[W 17:17:26.980 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.43ms referer=http://34.83.241.175:5000/tree/Pre-processing
+[I 17:17:35.795 NotebookApp] Kernel shutdown: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[W 17:17:35.797 NotebookApp] delete /Pre-processing/pre_proccesing_dataset.ipynb
+[W 17:17:36.592 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.33ms referer=http://34.83.241.175:5000/tree
+[W 17:17:48.603 NotebookApp] delete /Exploratory analysis 
+[W 17:17:48.604 NotebookApp] 400 DELETE /api/contents/Exploratory%20analysis%20 (93.35.188.135): Directory /home/codecatsdev/news-analysis/Exploratory analysis  not empty
+[W 17:17:48.604 NotebookApp] Directory /home/codecatsdev/news-analysis/Exploratory analysis  not empty
+[W 17:17:48.604 NotebookApp] 400 DELETE /api/contents/Exploratory%20analysis%20 (93.35.188.135) 1.61ms referer=http://34.83.241.175:5000/tree
+[W 17:18:58.063 NotebookApp] 404 POST /api/kernels/ade8c905-714b-4573-a3ff-21fbaa8981ef/interrupt (93.35.188.135): Kernel does not exist: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[W 17:18:58.064 NotebookApp] Kernel does not exist: ade8c905-714b-4573-a3ff-21fbaa8981ef
+[W 17:18:58.064 NotebookApp] 404 POST /api/kernels/ade8c905-714b-4573-a3ff-21fbaa8981ef/interrupt (93.35.188.135) 1.25ms referer=http://34.83.241.175:5000/notebooks/Pre-processing/pre_proccesing_dataset.ipynb
+[W 17:19:06.527 NotebookApp] 404 GET /api/contents/Pre-processing/pre_proccesing_dataset.ipynb?content=0&_=1594819144581 (93.35.188.135): No such file or directory: Pre-processing/pre_proccesing_dataset.ipynb
+[W 17:19:06.528 NotebookApp] No such file or directory: Pre-processing/pre_proccesing_dataset.ipynb
+[W 17:19:06.528 NotebookApp] 404 GET /api/contents/Pre-processing/pre_proccesing_dataset.ipynb?content=0&_=1594819144581 (93.35.188.135) 1.20ms referer=http://34.83.241.175:5000/notebooks/Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:19:06.751 NotebookApp] Uploading file to /Pre-processing/pre_proccesing_dataset.ipynb
+[W 17:25:38.977 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.33ms referer=http://34.83.241.175:5000/tree
+[W 17:25:41.545 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 2.70ms referer=http://34.83.241.175:5000/tree/Exploratory%20analysis%20
+[I 17:25:51.513 NotebookApp] Kernel shutdown: f2c038ad-81f4-4a4d-b22f-43674e9e7098
+[W 17:25:51.515 NotebookApp] delete /Exploratory analysis /exploratory_analysis.ipynb
+[W 17:25:53.913 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.08ms referer=http://34.83.241.175:5000/tree
+[W 17:25:58.830 NotebookApp] delete /Exploratory analysis 
+[W 17:26:01.596 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.12ms referer=http://34.83.241.175:5000/tree
+[W 17:26:03.721 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.35ms referer=http://34.83.241.175:5000/tree/Pre-processing
+[W 17:26:05.707 NotebookApp] 404 GET /static/components/moment/locale/uk-ua.js?v=20200715115333 (93.35.188.135) 1.21ms referer=http://34.83.241.175:5000/notebooks/Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:26:06.395 NotebookApp] Kernel started: 66ccb085-d7a6-4afb-b611-92e5b2b0455b
+[I 17:26:06.913 NotebookApp] Adapting to protocol v5.1 for kernel 66ccb085-d7a6-4afb-b611-92e5b2b0455b
+[I 17:28:06.751 NotebookApp] Saving file at /Pre-processing/pre_proccesing_dataset.ipynb
+[I 17:29:32.542 NotebookApp] Saving file at /Clusterization /news_clusterization.ipynb
+[I 17:29:51.965 NotebookApp] Saving file at /Classification /news_classification.ipynb
